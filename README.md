@@ -29,4 +29,14 @@ This repository contains a Flask web application that allows users to upload a P
    ```bash
    pip install Flask PyMuPDF
 
+## Usage
+
+1. **Run the Flask application:**
+   ````bash
+   python app.py
+2. **Open a web browser and navigate to:**
+   ````bash
+   http://127.0.0.1:5000/
+
+
 
