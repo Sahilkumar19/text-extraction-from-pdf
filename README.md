@@ -25,7 +25,7 @@ This repository contains a Flask web application that allows users to upload a P
    ```bash
    python -m venv venv
    source venv/bin/activate
-3.**Install the required packages:**
+3. **Install the required packages:**
    ```bash
    pip install Flask PyMuPDF
 
